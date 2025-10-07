@@ -19,13 +19,3 @@ namespace ContosoUniversity.Data
 		}
 	}
 }
-
-/*
-----------------------------------------
-1. Connect;
-2. Rebuild;
-3. Add migration;
-4. Copy ConnectionString from Secrets.json to appsettings.json;
-5. Rebuild;
-----------------------------------------
- */
